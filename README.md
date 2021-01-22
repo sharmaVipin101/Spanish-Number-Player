@@ -1,6 +1,6 @@
-# spanish
+# Spanish-Player-Number
 
-A new Flutter application.
+Flutter app for spanish numbers.
 
 ## Getting Started
 
